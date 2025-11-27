@@ -265,4 +265,4 @@ Place files into UC Volumes:
 Azure Data Engineer | Databricks | PySpark | Delta Lake | SQL  
 GitHub: https://github.com/tejas13gawali
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@Tejas Gawali]([https://www.github.com/octokatherine](https://github.com/tejas13gawali))
