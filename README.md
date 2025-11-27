@@ -261,8 +261,7 @@ Place files into UC Volumes:
 ---
 
 ## 👨‍💼 **Author**  
-**Tejas Gawali**  
+ - [@Tejas Gawali]([https://www.github.com/octokatherine](https://github.com/tejas13gawali))
 Azure Data Engineer | Databricks | PySpark | Delta Lake | SQL  
-GitHub: https://github.com/tejas13gawali
 
-- [@Tejas Gawali]([https://www.github.com/octokatherine](https://github.com/tejas13gawali))
+
